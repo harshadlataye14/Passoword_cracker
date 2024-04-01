@@ -1,6 +1,8 @@
 # Passoword_cracker
 # Command Line Tool
-How to use Tool
+![image](https://github.com/harshadlataye14/Password_cracker/assets/57581998/7e22c11d-917e-4e9a-bf63-94fd29a88e85)
+
+How to use Command Line Tool
 
 Step 1: Installation
 Ensure you have Python installed on your system. You can download Python from the official website: Python.org.
@@ -17,8 +19,7 @@ Navigate to the directory where you downloaded the tool using the command line.
 
 Step 5: Run the Tool
 Run the tool by executing the following command:
-python password_cracker.py
-
+python cracker.py
 
 Step 6: Input Hash Value
 Enter the hash value you want to crack when prompted.
