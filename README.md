@@ -51,15 +51,16 @@ Tool will start cracking the password. If successful, it will display the cracke
 
 
 Using the GUI:
-1.Upon running the application, a GUI window will appear.
 
-2.Enter the hash value of the password you want to crack in the provided text field.
+1. Upon running the application, a GUI window will appear.
 
-3.Optionally, you can choose to use a default password file provided with the tool, or you can browse and select a custom one.
+2. Enter the hash value of the password you want to crack in the provided text field.
 
-4.Click on the "Crack Password" button to initiate the cracking process.
+3. Optionally, you can choose to use a default password file provided with the tool, or you can browse and select a custom one.
 
-5.If the password is found within the specified wordlist, it will be displayed in a message box. Otherwise, a message indicating that the password was not found will be shown.
+4. Click on the "Crack Password" button to initiate the cracking process.
+
+5. If the password is found within the specified wordlist, it will be displayed in a message box. Otherwise, a message indicating that the password was not found will be shown.
 
 
 
@@ -79,16 +80,16 @@ Using the GUI:
 
 
 
-**Contact:**
+# Contact:
 For any inquiries or support, please contact harshadlataye14@gmail.com.
 
-**Version History:**
+# Version History:
 
 Version 1.0: Initial release (01/04/2024)
 
 Feel free to modify this README file according to your specific project requirements or preferences.
 
-**Additional Information**
+# Additional Information
 
 Make sure your password file contains a list of potential passwords to be tested for cracking.
 
